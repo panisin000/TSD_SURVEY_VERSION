@@ -3,10 +3,10 @@
     <channel>
         <title>TSD SURVEY App</title>
         <item>
-            <title>Version 1.0.0+20231013</title>
+            <title>Version 1.0.0+20231015</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 13 Oct 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.fuangfung.tsd_survey" sparkle:version="1.0.0+20231013" sparkle:os="android" />
+            <pubDate>15 Oct 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fuangfung.tsd_survey" sparkle:version="1.0.0+20231015" sparkle:os="android" />
         </item>
     </channel>
 </rss>
