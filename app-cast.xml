@@ -3,10 +3,10 @@
     <channel>
         <title>TSD SURVEY App</title>
         <item>
-            <title>Version 1.1.1+2025050300</title>
+            <title>Version 1.1.2+2025060200</title>
             <description>Fix minor bugs. Please update Smart Measuring Wheel version >1.4.0 or lastest version </description>
-            <pubDate>03 May 2025 16:41:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.fuangfung.tsd_survey" sparkle:version="1.1.1" sparkle:os="android" />
+            <pubDate>06 June 2025 16:41:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fuangfung.tsd_survey" sparkle:version="1.1.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
